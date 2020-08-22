@@ -28,8 +28,8 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 <br>
 <ul>
 <li>Development of pages for websites that includes Home, How-it-works, Contact,  Preloader, Result, Syntax error, Timeout Error, 404 Not found. </li>
-<li>Interactive Result table that includes with options to:<ul><li>Toggle to change representation of results.</li><li>Download all results in .csv format</li><li>Toggle button to view table in full size.</li><li>Choose show / hide column from table.</li></ul></li>
-<li>Visualization of top 12 results with Interactive scatter plots<ul><li>Hover to see data points.</li><li>Zoom each plot or all subplots simultaneously  to understand clearly the data points.</li></ul></li> 
+<li>Interactive Result table that includes with options to:<ul><li>Toggle to change representation of results.</li><li>Download all results in .csv format</li><li>Toggle button to view table in full size.</li><li>Choose show / hide column from table.</li></ul><br><img src="Gif/GIF-200821_150450.gif" width=500px height=300px></li><br>
+<li>Visualization of top 12 results with Interactive scatter plots<ul><li>Hover to see data points.</li><li>Zoom each plot or all subplots simultaneously  to understand clearly the data points.</li></ul><br><img src="Gif/GIF-200821_150019.gif" width=500px height=300px</li> <br>
 
 <li>Visualization of top 12 results with correlation heatmap with linkage clustering dendogram.</li>
 
@@ -49,10 +49,13 @@ Since the project needs to be developed from scratch, i had breakdown the develo
 
 ### Links to work
 <ul>
-<li><a href=""> Link for full repository</a></li>
-<li><a href="#">Links for all commits</a></li>
+<li><a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features"> Link for full repository</a></li>
+<li><a href="https://github.com/NeuralSystemsAndSignals/Comp-Engine-Features/commits/master">Links for all commits</a></li>
 </ul>
 
+**Though this website site is not live yet but anyone can still set up and use this on their local machine by following the instruction given in README file in the repository**
+<br>
+<img src="Gif/GIF-200821_144005.gif" width=500px height=300px>
 
 
 ### Weekly Reports
